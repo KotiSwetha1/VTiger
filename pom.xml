@@ -4,11 +4,6 @@
   <artifactId>Sample</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <dependencies>
-  	<dependency>
-  		<groupId>Qspiders</groupId>
-  		<artifactId>com.crm.VTiger</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
   	<!-- https://mvnrepository.com/artifact/org.testng/testng -->
 <dependency>
     <groupId>org.testng</groupId>
